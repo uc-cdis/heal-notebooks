@@ -1,3 +1,18 @@
+# Mac misc files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython configuration profiles
+profile_default/
+ipython_config.py
+
+# JupyterLab workspace settings and state
+.jupyter_workspace
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
