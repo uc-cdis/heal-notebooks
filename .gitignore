@@ -231,3 +231,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets
+notebooks/HDP01498/ICPSR 248700
+notebooks/HDP01498/ICPSR_248700-V1.1
